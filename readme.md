@@ -3,7 +3,7 @@
 ## Description
 
 The **Rocktutman1 calculator** is a *unique* and *sarcastic* calculator to use for non-serious homework aid!!
-![https://github.com/WTCSC/the-meh-thematical-calculator-rocktutman1/blob/main/images/Screenshot%202025-09-28%20005620.png](flowchart image)
+![flowchart image](https://github.com/WTCSC/the-meh-thematical-calculator-rocktutman1/blob/main/images/Screenshot%202025-09-28%20005620.png)
 ## Requirements
 
 - **Python3** or higher
@@ -43,7 +43,7 @@ Then run the following command
 Copy the raw calc.py file then paste into a online compiler and hit run
 
 After running **calc.py** you should see a screen like this
-![https://github.com/WTCSC/the-meh-thematical-calculator-rocktutman1/blob/main/images/Screenshot%202025-09-28%20004649.png](terminal screen)
+![terminal screen](https://github.com/WTCSC/the-meh-thematical-calculator-rocktutman1/blob/main/images/Screenshot%202025-09-28%20004649.png)
 ## Configuration
 
 No configuration is curently available
