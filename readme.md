@@ -47,3 +47,9 @@ After running **calc.py** you should see a screen like this
 ## Configuration
 
 No configuration is curently available
+
+## Testing
+
+* Move into the git-repo (as done earlier)
+* Type pytest -v
+* Look at the results print
