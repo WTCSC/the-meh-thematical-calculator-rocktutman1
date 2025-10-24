@@ -53,4 +53,4 @@ No configuration is curently available
 * Move into the git-repo (as done earlier)
 * Type pytest -v
 * Look at the results print
-  ![testresults]([replacelater](https://github.com/WTCSC/the-meh-thematical-calculator-rocktutman1/blob/main/images/Screenshot%20from%202025-10-21%2014-32-22.png))
+  ![testresults](https://github.com/WTCSC/the-meh-thematical-calculator-rocktutman1/blob/main/images/Screenshot%20from%202025-10-21%2014-32-22.png)
