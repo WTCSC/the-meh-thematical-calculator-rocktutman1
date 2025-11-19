@@ -1,3 +1,7 @@
+# CODE REDUCTION
+# 3087 -> 741
+
+
 # Guide to downloading and running the Rocktutman1 meh-thematical calculator
 
 ## Description
